@@ -16,3 +16,6 @@
 [submodule "rectangles"]
 	path = rectangles
 	url = ./rectangles
+[submodule "enums_and_pattern_matching"]
+	path = enums_and_pattern_matching
+	url = ./enums_and_pattern_matching
